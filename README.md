@@ -1,6 +1,6 @@
 # Tarea 02: Variables, Condicionales y Tipos de Datos en Python
 
-Este directorio contiene la resolución de los ejercicios prácticos de lógica de programación en Python mediante Google Colab.
+En la Tarea 02 se encuentra la resolución de los ejercicios prácticos de lógica de programación en Python asignados mediante Google Colab.
 
 ## Contenido del cuaderno (`tarea_02.ipynb`)
 
